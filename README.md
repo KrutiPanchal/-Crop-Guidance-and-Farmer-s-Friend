@@ -1,1 +1,1 @@
-# -Crop-Guidance-and-Farmer-s-Friend
+Krishi Kalyaan is an application which provides the user every kind of help they require related to agriculture. From weather updates to what kind of crops the land support to get the best yield by using the appropriate fertilizers and pesticides. Economical struggles are also cured by providing them information about the schemes provided by the…
